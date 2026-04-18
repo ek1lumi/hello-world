@@ -1,4 +1,2 @@
-# hello-world
+# hello-worl
 
-this is a test
-Hi I have Joined
